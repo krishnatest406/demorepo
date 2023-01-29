@@ -9,5 +9,4 @@ public class Add {
 		System.out.println("addition of two numbers is :"+(a+b));
 
 	}
-
 }
